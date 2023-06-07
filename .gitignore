@@ -1,0 +1,10 @@
+
+# Security
+.env
+./env
+# Readability
+__pycache__/
+
+
+# MacOs
+.DS_Store
