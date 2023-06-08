@@ -9,10 +9,6 @@
 
 ## Versions
 
-- 버전들
-
-## 세가지 버전으로 배포됩니다.
-
 - Stable
 - testFlight
 - WOI (Working On It)
