@@ -24,7 +24,6 @@
 **Discord에서 WMSGPT에게 요청할 때, 메시지 끝에 --woi, --testFlight를 붙여서 WOI,testFlight 버전의 응답을 들을 수 있습니다**
 
 **_추가적으로, --NOGO를 붙여서 요청하게 되면, NOGO model의 응답을 들을 수 있습니다._**
-[read more about NOGO](http://www.google.co.kr).
 
 #### 해당 기능은 WOI Beta Tester에게만 작동합니다.
 
